@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Jitsi Meet is a video conferencing, VoIP and messaging platform that we can use to talk in groups and establish work groups, and the best of all, ... it's free !!!!
+Kali Linux is a Debian GNU/Linux based distribution designed primarily for general IT security and auditing.
 
 ## official Web Page
 
