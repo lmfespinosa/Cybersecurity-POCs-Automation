@@ -1,10 +1,9 @@
-# DevOps-BuildAutomatedMachinesImages-Packer
+# POCs de ciberseguridad
 
 # Idioma de la ayuda del repositorio
 
 * [Inglés](README.en-GB.md)
 * [Español](README.md)
-
 
 ## Proyectos
 
@@ -12,7 +11,6 @@
 
 * Linux:
     * [Kali para VirtualBox](Documentation/es/Projects/VM/Linux/Kali/doc_kali.es-ES.md)
-
 
 ## Autores
 
