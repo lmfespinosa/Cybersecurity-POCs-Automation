@@ -1,23 +1,19 @@
 # DevOps-BuildAutomatedMachinesImages-Packer
 
-# Idioma de la ayuda del repositorio
+## Language of Rapository Readme
 
-* [Inglés](README.en-GB.md)
-* [Español](README.md)
+* [English](README.en-GB.md)
+* [Spanish](README.md)
 
-
-## Proyectos
-
-### Máquinas Virtuales
+## Projects
 
 * Linux:
-    * [Kali para VirtualBox](Documentation/es/Projects/VM/Linux/Kali/doc_kali.es-ES.md)
+    * [Kali para VirtualBox](Documentation/en/Projects/VM/Linux/Kali/doc_kali.en-GB.md)
 
-
-## Autores
+## Authors
 
 * **Luis Miguel Fernández** - *Initial work* - [lmfespinosa](https://github.com/lmfespinosa)
 
-## Licencia
+## License
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE.md](LICENSE.md) file for details
