@@ -12,3 +12,19 @@
     ```
     $ make dev
     ```
+
+## 2 forma de instalación de Packer
+
+1. Descargar Packer de la página oficial:
+    ```
+    wget https://releases.hashicorp.com/packer/1.4.5/packer_1.4.5_linux_amd64.zip
+    ```
+2. Descomprimir el fichero:
+    ```
+    unzip packer_1.4.5_linux_amd64.zip 
+    ```
+
+3. Mover el fichero a /usr/local/bin:
+    ```
+    sudo mv packer /usr/local/bin/
+    ```
