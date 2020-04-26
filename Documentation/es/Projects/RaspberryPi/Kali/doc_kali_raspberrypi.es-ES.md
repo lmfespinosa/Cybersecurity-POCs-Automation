@@ -12,9 +12,9 @@ https://www.kali.org/
 
 ## Herramientas
 
-* [Packer](../../../Documentation/es/Tools/Packer/doc_packer.es-ES.md)
-* [Packer ARM](../../../Documentation/es/Tools/Packer/doc_packer_arm.es-ES.md)
-* [GoLang](../../../Documentation/es/Tools/GoLang/doc_golang.es-ES.md)
+* [Packer](../../../../../../Documentation/es/Tools/Packer/doc_packer.es-ES.md)
+* [Packer ARM](../../../../../../Documentation/es/Tools/Packer/doc_packer_arm.es-ES.md)
+* [GoLang](../../../../../../Documentation/es/Tools/GoLang/doc_golang.es-ES.md)
 
 ## Script
 
