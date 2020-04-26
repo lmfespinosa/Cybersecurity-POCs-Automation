@@ -1,48 +1,49 @@
 # Kali
 
-## Introduction
+## Introducción
 
-Kali Linux is a Debian GNU / Linux based distribution designed primarily for general computer security and auditing.
+Kali Linux es una distribución basada en Debian GNU/Linux diseñada principalmente para la auditoría y seguridad informática en general.
 
-## Official website
+## Página oficial
 
-The official page is:
+La página oficial es:
 
 https://www.kali.org/
 
-## Tools
+## Herramientas
 
-* [Packer](../../../../../../Documentation/en/Tools/Packer/doc_packer.en-GB.md)
-* [Packer ARM](../../../../../../Documentation/en/Tools/Packer/doc_packer_arm.en-GB.md)
-* [GoLang](../../../../../../Documentation/en/Tools/GoLang/doc_golang.en-GB.md)
+* [Packer](../../../../../../Documentation/es/Tools/Packer/doc_packer.es-ES.md)
+* [Packer ARM](../../../../../../Documentation/es/Tools/Packer/doc_packer_arm.es-ES.md)
+* [GoLang](../../../../../../Documentation/es/Tools/GoLang/doc_golang.es-ES.md)
 
 ## Script
 
-The repository script path is:
+La ruta del script del repositorio es:
 
-RaspberryPi\Kali
+Virtual Images\Linux\Kali
 
-## Execution steps
+## Pasos de ejecución
 
-Before executing the scrit, we must replace the following parameters within the script itself:
+Antes de la ejecución del scrit, deberemos de sustituir dentro del propio script los siguientes parámetros:
 
 * kali-linux-20xx.xx.json
-    - data you need
+    - datos que necesites
 
-Once the script has been updated, we carry out the following steps:
 
-1. We validate the state of the script with Packer
+Una vez actualizado el script, efectuamos los siguientes pasos:
+
+1. Validamos el estado del script con Packer
 
 ```
 packer validate kali-linux-20xx.xx.json
 ```
 
-2. We start creating the image using the command:
+2. Iniciamos la creación de la imagen mediante el comando:
 ```
 packer build kali-linux-20xx.xx.json
 ```
 
-We can see how the entire script process runs until it is finished in Virtualbox:
+Cuando el proceso finaliza, la máquina se destruye.
 
 
-The result of the image we have in the folder itself.
+El resultado de la imagen la tenemos en la carpeta.
